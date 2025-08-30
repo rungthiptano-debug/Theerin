@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "Theerin",
+    "subtitle": "高齢者向け健康アプリ"
+  },
+  "home": {
+    "travelAlert": "外出通知",
+    "travelAlertDesc": "外出時や帰宅時に通知を受け取る",
+    "emergencyButton": "緊急ヘルプボタン",
+    "emergencyButtonDesc": "緊急ヘルプ信号を送信",
+    "dailyCheckIn": "日次チェックイン",
+    "dailyCheckInDesc": "健康監視のための日次チェックインを記録",
+    "findDoctor": "医師を探す",
+    "findDoctorDesc": "専門医を検索",
+    "appointment": "予約",
+    "appointmentDesc": "オンライン予約",
+    "onlineCourse": "オンラインコース",
+    "onlineCourseDesc": "生涯学習ウェブサイトにアクセス",
+    "findJob": "求職",
+    "findJobDesc": "適切な仕事の機会を検索",
+    "community": "コミュニティ",
+    "communityDesc": "チャット、アクティビティ、フレンドリーなAIコンパニオン",
+    "consulting": "相談",
+    "consultingDesc": "健康専門家に相談",
+    "history": "履歴",
+    "historyDesc": "サービスと健康履歴を表示",
+    "locationReminder": "位置リマインダー",
+    "locationReminderDesc": "位置ベースのリマインダーを設定"
+  },
+  "community": {
+    "welcome": "私たちのコミュニティへようこそ！",
+    "heroText": "チェンマイのドンケーオでつながり、新しい友達を見つけ、楽しい活動を見つけましょう！",
+    "communityChats": "コミュニティチャット",
+    "communityChatsDesc": "近所の人や友達と話す",
+    "expertAdvice": "専門アドバイザー",
+    "expertAdviceDesc": "金融、保険、法律の専門家に相談",
+    "aiChat": "AIとチャット",
+    "aiChatDesc": "AIと話してヘルプと会話を得る",
+    "eventsClubs": "イベント＆クラブ",
+    "eventsClubsDesc": "一緒に楽しめる活動を見つけよう！",
+    "welcomeMessage": "もう孤独になることはありません！温かく友好的なコミュニティに参加しましょう"
+  },
+  "common": {
+    "back": "戻る",
+    "next": "次へ",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "close": "閉じる",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "success": "成功"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "Theerin",
+    "subtitle": "Ứng dụng sức khỏe cho người cao tuổi"
+  },
+  "home": {
+    "travelAlert": "Cảnh báo di chuyển",
+    "travelAlertDesc": "Nhận thông báo khi ra ngoài hoặc về nhà",
+    "emergencyButton": "Nút cấp cứu",
+    "emergencyButtonDesc": "Gửi tín hiệu cấp cứu",
+    "dailyCheckIn": "Check-in hàng ngày",
+    "dailyCheckInDesc": "Ghi lại check-in hàng ngày để theo dõi sức khỏe",
+    "findDoctor": "Tìm bác sĩ",
+    "findDoctorDesc": "Tìm kiếm bác sĩ chuyên khoa",
+    "appointment": "Đặt lịch",
+    "appointmentDesc": "Đặt lịch hẹn trực tuyến",
+    "onlineCourse": "Khóa học trực tuyến",
+    "onlineCourseDesc": "Truy cập trang web học tập suốt đời",
+    "findJob": "Tìm việc",
+    "findJobDesc": "Tìm kiếm cơ hội việc làm phù hợp",
+    "community": "Cộng đồng",
+    "communityDesc": "Trò chuyện, hoạt động và AI bạn bè",
+    "consulting": "Tư vấn",
+    "consultingDesc": "Tư vấn với chuyên gia sức khỏe",
+    "history": "Lịch sử",
+    "historyDesc": "Xem lịch sử dịch vụ và sức khỏe",
+    "locationReminder": "Nhắc nhở vị trí",
+    "locationReminderDesc": "Đặt nhắc nhở dựa trên vị trí"
+  },
+  "community": {
+    "welcome": "Chào mừng đến với cộng đồng của chúng tôi!",
+    "heroText": "Kết nối, khám phá bạn bè mới và tìm các hoạt động thú vị tại Đôn Kẹo, Chiang Mai!",
+    "communityChats": "Trò chuyện cộng đồng",
+    "communityChatsDesc": "Nói chuyện với hàng xóm và bạn bè",
+    "expertAdvice": "Cố vấn chuyên gia",
+    "expertAdviceDesc": "Tư vấn với chuyên gia tài chính, bảo hiểm và pháp luật",
+    "aiChat": "Trò chuyện với AI",
+    "aiChatDesc": "Nói chuyện với AI để được giúp đỡ và trò chuyện",
+    "eventsClubs": "Sự kiện & Câu lạc bộ",
+    "eventsClubsDesc": "Tìm các hoạt động thú vị để cùng tham gia!",
+    "welcomeMessage": "Không bao giờ cô đơn nữa! Tham gia cộng đồng ấm áp và thân thiện của chúng tôi"
+  },
+  "common": {
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "close": "Đóng",
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "Theerin",
+    "subtitle": "老年人健康应用"
+  },
+  "home": {
+    "travelAlert": "出行提醒",
+    "travelAlertDesc": "离家或回家时获得通知",
+    "emergencyButton": "紧急求助按钮",
+    "emergencyButtonDesc": "发送紧急求助信号",
+    "dailyCheckIn": "每日签到",
+    "dailyCheckInDesc": "记录每日签到进行健康监测",
+    "findDoctor": "找医生",
+    "findDoctorDesc": "搜索专科医生",
+    "appointment": "预约",
+    "appointmentDesc": "在线预约",
+    "onlineCourse": "在线课程",
+    "onlineCourseDesc": "访问终身学习网站",
+    "findJob": "找工作",
+    "findJobDesc": "搜索合适的工作机会",
+    "community": "社区",
+    "communityDesc": "聊天、活动和友好的AI伙伴",
+    "consulting": "咨询",
+    "consultingDesc": "咨询健康专家",
+    "history": "历史记录",
+    "historyDesc": "查看服务和健康历史",
+    "locationReminder": "位置提醒",
+    "locationReminderDesc": "设置基于位置的提醒",
+    "smartWatch": "Theerin Watch",
+    "smartWatchDesc": "专业健康监测"
+  },
+  "community": {
+    "welcome": "欢迎来到我们的社区！",
+    "heroText": "在清迈董开县连接彼此，发现新朋友，寻找有趣的活动！",
+    "communityChats": "社区聊天",
+    "communityChatsDesc": "与邻居和朋友交谈",
+    "expertAdvice": "专家顾问",
+    "expertAdviceDesc": "咨询金融、保险和法律专家",
+    "aiChat": "与AI聊天",
+    "aiChatDesc": "与AI交谈获得帮助和对话",
+    "eventsClubs": "活动与俱乐部",
+    "eventsClubsDesc": "寻找一起参与的有趣活动！",
+    "welcomeMessage": "再也不会孤单！加入我们温暖友好的社区"
+  },
+  "common": {
+    "back": "返回",
+    "next": "下一步",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "close": "关闭",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "success": "成功"
+  },
+  "smartWatch": {
+    "title": "Theerin Watch",
+    "subtitle": "专业健康监测",
+    "connectTitle": "连接您的智能手表",
+    "connectDesc": "同步您的健康数据以获得个性化见解",
+    "startPairing": "开始专业配对",
+    "scanning": "正在扫描设备...",
+    "connecting": "正在建立安全连接...",
+    "connected": "连接成功！",
+    "availableDevices": "可用设备",
+    "battery": "电池",
+    "connect": "连接",
+    "connectionSaved": "手表连接已保存 • 数据持久化已激活",
+    "heartRate": "心率",
+    "stepsToday": "今日步数",
+    "sleepQuality": "睡眠质量",
+    "viewDashboard": "查看健康仪表板",
+    "watchSettings": "手表设置",
+    "disconnect": "断开连接",
+    "disconnectConfirm": {
+      "title": "断开手表连接？",
+      "message": "您确定要断开 {deviceName} 的连接吗？这将停止健康数据同步。",
+      "cancel": "取消",
+      "continue": "继续"
+    },
+    "finalConfirm": {
+      "title": "最终确认",
+      "warning": "此操作无法撤销！",
+      "message": "您的手表将完全断开连接，所有保存的健康数据将从此设备中删除。",
+      "keepConnected": "保持连接",
+      "disconnectNow": "立即断开连接"
+    }
+  }
+}
