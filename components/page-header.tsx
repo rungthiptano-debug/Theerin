@@ -8,7 +8,7 @@ interface PageHeaderProps {
   subtitle?: string
   onBack: () => void
   showProgress?: boolean
-  currentStep?: number
+  currentStep?: number 
   totalSteps?: number
 }
 

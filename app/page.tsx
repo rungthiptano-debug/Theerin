@@ -4,6 +4,7 @@ import { useState } from "react"
 import Link from "next/link"
 import { LanguageSelector } from "@/components/language-selector"
 import { useLanguage } from "@/lib/language-context"
+import Image from 'next/image'
 
 export default function HomePage() {
   const [isGoingOut, setIsGoingOut] = useState(false)
@@ -36,7 +37,8 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-sky-50 via-white to-blue-50">
-      <div className="bg-gradient-to-r from-blue-600 via-blue-700 to-blue-800 shadow-xl">
+      {/*<div className="bg-gradient-to-r from-#acd8a-600 via-#acd8a-700 to-#acd8a-800 shadow-xl">*/}
+      <div className="bg-gradient-to-r from-green-600 via-green-700 to-green-800 shadow-xl">
         <div className="max-w-full mx-auto px-4 py-6">
           <div className="flex justify-end mb-4">
             <LanguageSelector />
@@ -47,9 +49,18 @@ export default function HomePage() {
             <div className="text-base text-sky-200 mb-6">{currentDate}</div>
 
             <div className="flex items-center justify-center mb-6">
-              <div className="w-20 h-20 bg-gradient-to-br from-amber-400 to-yellow-500 rounded-3xl flex items-center justify-center shadow-lg border-2 border-white/30">
-                <div className="w-10 h-2.5 bg-white rounded-full shadow-sm"></div>
-                <div className="absolute w-2.5 h-10 bg-white rounded-full shadow-sm"></div>
+             {/*<div className="w-20 h-20 bg-gradient-to-br from-green-400 to-white-500 rounded-3xl flex items-center justify-center shadow-lg border-2 border-white/30">*/}
+             <div className="w-28 h-28 bg-white rounded-3xl flex items-center justify-center p-2">
+              <Image 
+           src="/logos/logooooooo.png"   
+           alt="Theerin Logo"
+           width={120}
+           height={60}
+          priority
+          className="object-contain"
+         />
+                {/*<div className="w-10 h-2.5 bg-white rounded-full shadow-sm"></div>
+                <div className="absolute w-2.5 h-10 bg-white rounded-full shadow-sm"></div>*/}
               </div>
             </div>
 
